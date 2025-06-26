@@ -11,7 +11,10 @@
 ![Скриншот2](https://github.com/avenuemonten/most-test/blob/main/img/visudo%20fix.png)
 
 ✅На ВМ most1 был создан проект most-ci-project со скриптом build.sh / deploy.sh (Через Powershell, т.к VMWARE не поддерживает кириллицу пришлось зайти через винду для "красоты") 
+![Скриншот3](https://github.com/avenuemonten/most-test/blob/main/img/build.sh.png)
+![Скриншот4](https://github.com/avenuemonten/most-test/blob/main/img/deploy.sh.png)
 
 ✅После этого добавил права на выполнение bash скрипта командой : chmod +x
 
 ✅ 23:20 Успешно проверен
+![Скриншот5](https://github.com/avenuemonten/most-test/blob/main/img/aprove%20test.png)
