@@ -133,7 +133,12 @@ UPD:
 # 📨 Telegram Notification
 
 1) Основной бот был взят у @botfather, получил токен. А так же добавил его в группу и перешел по api и добавил на финальном скрипте deploy.sh
+
 ![Скриншот21](https://github.com/avenuemonten/most-test/blob/main/img/telegram_notification1.png)
+
 ![Скриншот22](https://github.com/avenuemonten/most-test/blob/main/img/telegram_notification2.png)
 
+
+> [!WARNING]
+> Через время гитхаб заблокирует репозиторий из-за открытого api ключа
 
