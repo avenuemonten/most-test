@@ -3,9 +3,9 @@
 Порядок запуска скриптов автоматизаций root:
 ```
 chmod +x build.sh
-chmod +x deploy.sh
+chmod +x deploy.sh *перед запуском менять параметры REMOTE_USER / REMOTE_HOST / А ТАК ЖЕ API ТЕЛЕГРАММ НА СВОЙ*
 ./build.sh && ./deploy.sh
-chmod +x install_conf.sh
+chmod +x install_conf.sh *При запуске скрипта выбрать/поменять имя БД, пароль доступа к БД, админа БД*
 ./install_conf.sh
 ```
 
